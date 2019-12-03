@@ -1,0 +1,38 @@
+.banner-background {
+    background-image: url('../../assets/imgs/new3.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+   
+  .banner-intro {
+   
+    // margin: 150px 400px;
+    border-block-end: rgb(206, 211, 195);
+
+    background: yellow;
+
+    .top {
+        font-size: 3em;
+        color: white;
+        font-family: 'Open Sans Condensed';
+        text-align: start;
+        font-weight: 100 ;
+
+        ;
+    }
+    .middle {
+        color: white;
+        font-family: 'Hammersmith One'
+        ;
+        font-size: 5em;
+        margin-top: -10px
+    }
+    .bottom {
+        color: white;
+        font-family: 'Cookie', cursive ;
+        font-size: 2em;
+        margin-top: -70px
+    }
+  }
+}
