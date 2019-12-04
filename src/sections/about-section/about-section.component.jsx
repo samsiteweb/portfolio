@@ -27,17 +27,9 @@ export default function AboutSection() {
         </div>
 
       <div className={classes.root}>
-        <Grid container spacing={5}>
-          <Grid item xs='4'>
-              <img src="asset/img/new_image.jpg" height="500" width="500" />
-          </Grid>
-          <Grid item xs='8'>
-           <div>
+        <div>
                <CustomizedSteppers />
            </div>
-          </Grid>
-         
-        </Grid>
         </div>
       </div>
     )

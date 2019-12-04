@@ -46,7 +46,7 @@ const useQontoStepIconStyles = makeStyles({
     color: '#eaeaf0',
     display: 'flex',
     height: 22,
-    alignItems: 'center',
+    alignItems: 'left',
   },
   active: {
     color: '#784af4',
@@ -233,6 +233,15 @@ export default function CustomizedSteppers() {
   };
 
   return (
+
+    <Grid container spacing={0}>
+          <Grid item lg='6'>
+              <img src="asset/img/new_image.jpg" height="500" width="500" />
+          </Grid>
+          <Grid item lg='6'>
+           
+          
+
     <div className={classes.root}>
       {/* <Stepper alternativeLabel activeStep={activeStep}>
         {steps.map(label => (
@@ -269,7 +278,7 @@ export default function CustomizedSteppers() {
         //         Back
         //       </Button>
         //   </div>
-        <div style={{marginLeft: '150px'}} >
+        <div style={{marginLeft: '0px'}} >
             <Typography className={classes.instructions}>{getStepContent(activeStep)}</Typography>
             <div>
               <Button
@@ -288,7 +297,7 @@ export default function CustomizedSteppers() {
             </div>
           </div>
         ) : (
-          <div style={{marginLeft: '150px'}}>
+          <div style={{marginLeft: '0px'}}>
             <Typography className={classes.instructions}>{getStepContent(activeStep)}</Typography>
             <div>
               <Button disabled={activeStep === 0} onClick={handleBack} className={classes.button}>
@@ -312,5 +321,8 @@ export default function CustomizedSteppers() {
         )}
       </div>
     </div>
+    </Grid>
+         
+        </Grid>
   );
 }
