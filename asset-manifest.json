@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6528ab2d.chunk.css",
+    "main.js": "/portfolio/static/js/main.a5d81f38.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a5d81f38.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e92c632a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e92c632a.js.map",
+    "static/js/2.114166de.chunk.js": "/portfolio/static/js/2.114166de.chunk.js",
+    "static/js/2.114166de.chunk.js.map": "/portfolio/static/js/2.114166de.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7ad802c8bca1e6917521fa76d1a51d86.js": "/portfolio/precache-manifest.7ad802c8bca1e6917521fa76d1a51d86.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.6528ab2d.chunk.css.map": "/portfolio/static/css/main.6528ab2d.chunk.css.map",
+    "static/media/angular.a5fe3b03.svg": "/portfolio/static/media/angular.a5fe3b03.svg",
+    "static/media/check-box-empty.00072baf.svg": "/portfolio/static/media/check-box-empty.00072baf.svg",
+    "static/media/css3.0d72d2fc.svg": "/portfolio/static/media/css3.0d72d2fc.svg",
+    "static/media/dart.0827c537.svg": "/portfolio/static/media/dart.0827c537.svg",
+    "static/media/firebase.722d5e83.svg": "/portfolio/static/media/firebase.722d5e83.svg",
+    "static/media/flutter.96fc0db8.svg": "/portfolio/static/media/flutter.96fc0db8.svg",
+    "static/media/html5.4125e356.svg": "/portfolio/static/media/html5.4125e356.svg",
+    "static/media/ionic.a25ef028.svg": "/portfolio/static/media/ionic.a25ef028.svg",
+    "static/media/javascript.f1f84823.svg": "/portfolio/static/media/javascript.f1f84823.svg",
+    "static/media/banner.styles.scss": "/portfolio/static/media/new3.7de0beb4.png",
+    "static/media/nodejs.14bfa809.svg": "/portfolio/static/media/nodejs.14bfa809.svg",
+    "static/media/react.2fe7d83c.svg": "/portfolio/static/media/react.2fe7d83c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e92c632a.js",
+    "static/js/2.114166de.chunk.js",
+    "static/css/main.6528ab2d.chunk.css",
+    "static/js/main.a5d81f38.chunk.js"
+  ]
+}
